@@ -1,4 +1,3 @@
-
 1.	The Purpose of The App
 The purpose of the app is to be able to indulge yourself by being able to get a proper meal for yourself at different times of the day and at calories and different parts of the world.
 Let’s say you’re coming from work, and it is during the afternoon, and you do not know what to eat. You can open our app and choose what meal and what recipes you want to cook or the foods you want to eat so that you can order them on your different restaurants of your own liking.
@@ -158,4 +157,7 @@ Eat What We Eat (n.d.) Eat What We Eat. Available at: www.eatwhatweeat.com (Acce
  Harvard Health (n.d.) Harvard Health. Available at: www.health.harvard.edu (Accessed: [[08/03/2025]).
  
  Fit&Well (n.d.) Fit&Well. Available at: www.fitandwell.com (Accessed: [[08/03/2025]).
+
+
+[IMAD5112 Assigment 1.docx](https://github.com/user-attachments/files/19578145/IMAD5112.Assigment.1.docx)
 
